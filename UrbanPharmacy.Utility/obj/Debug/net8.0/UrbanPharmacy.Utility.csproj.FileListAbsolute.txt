@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\bin\Debug\net8.0\UrbanPharmacy.Utility.deps.json
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\bin\Debug\net8.0\UrbanPharmacy.Utility.dll
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\bin\Debug\net8.0\UrbanPharmacy.Utility.pdb
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\UrbanPharmacy.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\UrbanPharmacy.Utility.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\UrbanPharmacy.Utility.AssemblyInfo.cs
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\UrbanPharmacy.Utility.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\UrbanPharmacy.Utility.sourcelink.json
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\UrbanPharmacy.Utility.dll
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\refint\UrbanPharmacy.Utility.dll
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\UrbanPharmacy.Utility.pdb
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\ref\UrbanPharmacy.Utility.dll
+C:\Users\HP\source\repos\UrbanPharmacy\UrbanPharmacy.Utility\obj\Debug\net8.0\UrbanPharmacy.Utility.csproj.AssemblyReference.cache
