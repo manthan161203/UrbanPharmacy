@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Stripe.Checkout;
+using System.Globalization;
 using System.Security.Claims;
 using UrbanPharmacy.DataAccess.Repository.IRepository;
 using UrbanPharmacy.Models;
@@ -22,6 +23,10 @@ namespace UrbanPharmacyWeb.Areas.Customer.Controllers
         }
         public IActionResult Index()
         {
+
+            CultureInfo indianCulture = new CultureInfo("en-IN");
+            Thread.CurrentThread.CurrentCulture = indianCulture;
+            Thread.CurrentThread.CurrentUICulture = indianCulture;
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
             ShoppingCartVM = new()

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrbanPharmacyWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a26dc7e8edba4891f8b30a4fc5ba6c3b718bba51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1433324eea8f6278bbd5a6459dbac3a759ad52db")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrbanPharmacyWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrbanPharmacyWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

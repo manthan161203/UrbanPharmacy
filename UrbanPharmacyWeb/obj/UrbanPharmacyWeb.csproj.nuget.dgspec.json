@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\UrbanPharmacyWeb.csproj": {}
+    "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\UrbanPharmacyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj": {
+    "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj",
+        "projectUniqueName": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj",
         "projectName": "UrbanPharmacy.DataAccess",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.DataAccess\\obj\\",
+        "projectPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Tirth\\.nuget\\packages\\",
+        "outputPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tirth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj"
+              "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj": {
+                "projectPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj"
               },
-              "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj"
+              "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj": {
+                "projectPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj"
               }
             }
           }
@@ -86,17 +86,17 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj": {
+    "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj",
+        "projectUniqueName": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj",
         "projectName": "UrbanPharmacy.Models",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Models\\obj\\",
+        "projectPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj",
+        "packagesPath": "C:\\Users\\Tirth\\.nuget\\packages\\",
+        "outputPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tirth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,17 +151,17 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj": {
+    "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj",
+        "projectUniqueName": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj",
         "projectName": "UrbanPharmacy.Utility",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Utility\\obj\\",
+        "projectPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Utility\\UrbanPharmacy.Utility.csproj",
+        "packagesPath": "C:\\Users\\Tirth\\.nuget\\packages\\",
+        "outputPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tirth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -212,17 +212,17 @@
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\UrbanPharmacyWeb.csproj": {
+    "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\UrbanPharmacyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\UrbanPharmacyWeb.csproj",
+        "projectUniqueName": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\UrbanPharmacyWeb.csproj",
         "projectName": "UrbanPharmacyWeb",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\UrbanPharmacyWeb.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\obj\\",
+        "projectPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\UrbanPharmacyWeb.csproj",
+        "packagesPath": "C:\\Users\\Tirth\\.nuget\\packages\\",
+        "outputPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tirth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -236,11 +236,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj"
+              "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj": {
+                "projectPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.DataAccess\\UrbanPharmacy.DataAccess.csproj"
               },
-              "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj"
+              "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj": {
+                "projectPath": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacy.Models\\UrbanPharmacy.Models.csproj"
               }
             }
           }

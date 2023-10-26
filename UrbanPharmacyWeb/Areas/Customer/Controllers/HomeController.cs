@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Globalization;
 using System.Security.Claims;
 using UrbanPharmacy.DataAccess.Repository.IRepository;
 using UrbanPharmacy.Models;
@@ -21,6 +22,10 @@ namespace UrbanPharmacyWeb.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
+
+            CultureInfo indianCulture = new CultureInfo("en-IN");
+            Thread.CurrentThread.CurrentCulture = indianCulture;
+            Thread.CurrentThread.CurrentUICulture = indianCulture;
             IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
             return View(productList);
         }

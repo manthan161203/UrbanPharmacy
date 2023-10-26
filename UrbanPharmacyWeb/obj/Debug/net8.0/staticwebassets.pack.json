@@ -1,295 +1,299 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UrbanPharmacyWeb.bundle.scp.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UrbanPharmacyWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\UrbanPharmacyWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\css\\site.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\favicon.ico",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\order.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\order.jpg",
       "PackagePath": "staticwebassets\\images\\order.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\product\\4d0aaa57-5482-46f0-b552-dce9dc1109e5.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\4d0aaa57-5482-46f0-b552-dce9dc1109e5.jpg",
       "PackagePath": "staticwebassets\\images\\product\\4d0aaa57-5482-46f0-b552-dce9dc1109e5.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\product\\5f197e55-5f18-4a18-b53e-d515b5b55b78.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\5f197e55-5f18-4a18-b53e-d515b5b55b78.jpg",
       "PackagePath": "staticwebassets\\images\\product\\5f197e55-5f18-4a18-b53e-d515b5b55b78.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\product\\a8c1155a-f1be-445e-a0ec-7f0ef0fb9b43.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\a8c1155a-f1be-445e-a0ec-7f0ef0fb9b43.jpg",
       "PackagePath": "staticwebassets\\images\\product\\a8c1155a-f1be-445e-a0ec-7f0ef0fb9b43.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\product\\b507c5f7-978f-46e3-aec3-af880357f8eb.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\b507c5f7-978f-46e3-aec3-af880357f8eb.jpg",
       "PackagePath": "staticwebassets\\images\\product\\b507c5f7-978f-46e3-aec3-af880357f8eb.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\product\\bc6aff87-7afb-4fa9-8fb2-aeffbde3b387.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\bc6aff87-7afb-4fa9-8fb2-aeffbde3b387.jpg",
       "PackagePath": "staticwebassets\\images\\product\\bc6aff87-7afb-4fa9-8fb2-aeffbde3b387.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\product\\bf1f7746-18cf-40a9-926c-cc4d1a856752.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\bf1f7746-18cf-40a9-926c-cc4d1a856752.jpg",
       "PackagePath": "staticwebassets\\images\\product\\bf1f7746-18cf-40a9-926c-cc4d1a856752.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\product\\e4db2859-dd6a-472d-a986-42eab1f1051c.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\e4db2859-dd6a-472d-a986-42eab1f1051c.jpg",
       "PackagePath": "staticwebassets\\images\\product\\e4db2859-dd6a-472d-a986-42eab1f1051c.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\images\\product\\first.jpg",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\f19069d2-67bd-4eed-8824-bcae6b37f3ec.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f19069d2-67bd-4eed-8824-bcae6b37f3ec.jpg"
+    },
+    {
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\images\\product\\first.jpg",
       "PackagePath": "staticwebassets\\images\\product\\first.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\js\\company.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\js\\order.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\js\\order.js",
       "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\js\\product.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\js\\site.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\source\\repos\\UrbanPharmacy\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\College_Lab_work\\Sem_5\\WDA\\UrbanPharmacy\\UrbanPharmacyMVC\\UrbanPharmacyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
