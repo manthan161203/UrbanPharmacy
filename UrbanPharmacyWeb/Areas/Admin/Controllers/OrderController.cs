@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Stripe;
 using Stripe.Checkout;
+using System.Globalization;
 using System.Security.Claims;
 using UrbanPharmacy.DataAccess.Repository.IRepository;
 using UrbanPharmacy.Models;
@@ -24,12 +25,18 @@ namespace UrbanPharmacyWeb.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            return View();
+			CultureInfo indianCulture = new CultureInfo("en-IN");
+			Thread.CurrentThread.CurrentCulture = indianCulture;
+			Thread.CurrentThread.CurrentUICulture = indianCulture;
+			return View();
         }
 
         public IActionResult Details(int orderId)
         {
-            OrderVM = new()
+			CultureInfo indianCulture = new CultureInfo("en-IN");
+			Thread.CurrentThread.CurrentCulture = indianCulture;
+			Thread.CurrentThread.CurrentUICulture = indianCulture;
+			OrderVM = new()
             {
                 OrderHeader = _unitOfWork.OrderHeader.Get(u => u.Id == orderId, includeProperties: "ApplicationUser"),
                 OrderDetail = _unitOfWork.OrderDetail.GetAll(u => u.OrderHeaderId == orderId, includeProperties: "Product")

@@ -44,6 +44,9 @@ namespace UrbanPharmacyWeb.Areas.Customer.Controllers
         }
         public IActionResult Summary()
         {
+            CultureInfo indianCulture = new CultureInfo("en-IN");
+            Thread.CurrentThread.CurrentCulture = indianCulture;
+            Thread.CurrentThread.CurrentUICulture = indianCulture;
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
             ShoppingCartVM = new()
@@ -70,6 +73,9 @@ namespace UrbanPharmacyWeb.Areas.Customer.Controllers
         [ActionName("Summary")]
         public IActionResult SummaryPOST()
         {
+            CultureInfo indianCulture = new CultureInfo("en-IN");
+            Thread.CurrentThread.CurrentCulture = indianCulture;
+            Thread.CurrentThread.CurrentUICulture = indianCulture;
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
             ShoppingCartVM.ShoppingCartList = _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == userId,
@@ -129,7 +135,7 @@ namespace UrbanPharmacyWeb.Areas.Customer.Controllers
                         PriceData = new SessionLineItemPriceDataOptions
                         {
                             UnitAmount = (long)(item.Price * 100), // $20.50 => 2050
-                            Currency = "usd",
+                            Currency = "inr",
                             ProductData = new SessionLineItemPriceDataProductDataOptions
                             {
                                 Name = item.Product.Name

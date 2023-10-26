@@ -32,6 +32,10 @@ namespace UrbanPharmacyWeb.Areas.Customer.Controllers
 
         public IActionResult Details(int productId)
         {
+
+            CultureInfo indianCulture = new CultureInfo("en-IN");
+            Thread.CurrentThread.CurrentCulture = indianCulture;
+            Thread.CurrentThread.CurrentUICulture = indianCulture;
             ShoppingCart cart = new()
             {
                 Product = _unitOfWork.Product.Get(u => u.Id == productId, includeProperties: "Category"),
